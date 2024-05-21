@@ -1,4 +1,4 @@
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
   .second {
     display: none; /* Show the second image when screen width is 768px or higher */
     background: url("../../public/assets/Images/Vector\ 4.png");
